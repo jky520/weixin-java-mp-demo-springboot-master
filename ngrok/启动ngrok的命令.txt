@@ -1,0 +1,1 @@
+D:\sts\teach\workspace\weixin-java-mp-demo-springboot-master\ngrok>ngrok -config ngrok.cfg -subdomain jky 8888
